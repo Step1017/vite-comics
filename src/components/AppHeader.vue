@@ -79,7 +79,7 @@
     @import "../styles/partials/colors.scss";
         header {
             height: 120px;
-            background-color: white;
+            background-color: $dc-white;
             .container {
                 height: 100%;
                 display: flex;
@@ -112,9 +112,11 @@
                         
                     &.active {
                         color: $dc-blue;
+                        box-shadow: inset 0px -5px 0px 0px $dc-blue;
                     }
                     &:hover {
                         color: $dc-blue;
+                        box-shadow: inset 0px -5px 0px 0px $dc-blue;
                         }
                     }
                 }                    

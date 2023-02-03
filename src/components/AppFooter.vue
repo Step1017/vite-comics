@@ -337,7 +337,7 @@
         }
 
         .social-bar {
-            padding: 3rem;
+            padding: 2rem;
             background-color: $dc-darkgray;
             .container {
                 display: flex;
