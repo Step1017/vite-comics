@@ -21,5 +21,5 @@ import AppFooter from './components/AppFooter.vue';
 </template>
 
 <style lang="scss">
-@use "./styles/partials/main"
+@import "./styles/partials/main"
 </style>

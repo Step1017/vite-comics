@@ -76,7 +76,6 @@
 </template>
 
 <style lang="scss" scoped>
-    @import "../styles/partials/colors.scss";
         header {
             height: 120px;
             background-color: $dc-white;

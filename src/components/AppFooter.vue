@@ -257,7 +257,6 @@
 </template>
 
 <style lang="scss" scoped>
-    @import "../styles/partials/colors.scss";
         .blu-bar {
             background-color: $dc-blue;
             padding: 3rem;
